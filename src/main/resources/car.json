@@ -1,0 +1,18 @@
+{
+  "type": "car",
+  "make": "Toyota",
+  "model": "Camry",
+  "year": 2021,
+  "mileage": 15000,
+  "features": ["air conditioning", "power steering", "bluetooth"],
+  "owners": [
+    {
+      "name": "John Smith",
+      "since": 2021
+    },
+    {
+      "name": "Jane Doe",
+      "since": 2023
+    }
+  ]
+}

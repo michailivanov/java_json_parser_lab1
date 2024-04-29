@@ -1,0 +1,25 @@
+{
+  "name": "Example School",
+  "teachers": [
+    {
+      "name": "Mr. Smith",
+      "age": 40
+    },
+    {
+      "name": "Ms. Johnson",
+      "age": 35
+    }
+  ],
+  "students": [
+    {
+      "name": "John",
+      "age": 15,
+      "subjects": ["Math", "Science", "English"]
+    },
+    {
+      "name": "Emma",
+      "age": 16,
+      "subjects": ["History", "Geography"]
+    }
+  ]
+}
